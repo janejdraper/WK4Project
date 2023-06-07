@@ -1,7 +1,7 @@
 package wk4Project1;
 
 import java.lang.StringBuilder; //for wordRepeater()
-import java.util.Scanner;
+
 
 public class Project1 {
 
