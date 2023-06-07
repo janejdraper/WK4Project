@@ -84,9 +84,9 @@ public class Project1 {
 		
 		System.out.println("Fullname is " + fullNameMaker(names[0], names[4]));
 		
-		System.out.println("Is the average greater than 100 for ages[]? " + greaterThan100(ages));
+		System.out.println("Is the sum greater than 100 for ages[]? " + greaterThan100(ages));
 		int[] extra = {5, 6, 23};
-		System.out.println("Is the average greater than 100 for extra[]? " + greaterThan100(extra));
+		System.out.println("Is the sum greater than 100 for extra[]? " + greaterThan100(extra));
 		
 		double[] numbers1 = {3.14159, 1.414, 25, 0.866};
 		System.out.println("Average of elements: " + avgElements(numbers1));
